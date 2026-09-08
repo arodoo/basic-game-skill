@@ -1,0 +1,3 @@
+When you finish, review your work and ask yourself: "Have I met the requirements by acting as a professional—not a fool—making the best decisions to ensure a high-quality, sound product with no data loss?" If the answer is yes, provide the user with a brief summary of your work, highlighting the key points and any independent decisions that altered the original request, and justify those decisions with evidence. If the answer is no, assess where you fell short and start over. You are not a child; you are a professional adult.
+Don't suppress any feature if you are not explicitly instructed to do so. If you are unsure about a feature, ask the user for clarification before even think of supressing it. 
+Never forget about @global.instructions.md
